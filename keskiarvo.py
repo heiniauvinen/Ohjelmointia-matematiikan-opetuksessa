@@ -10,8 +10,4 @@ def keskiarvo(lista):
     return summa/3
 
 print("Lukujen keskiarvo:",keskiarvo(lista))
-<<<<<<< HEAD
-    
-=======
-    
->>>>>>> 34e2ac807c998d3aaeddec373ac75193b1c4a399
+
