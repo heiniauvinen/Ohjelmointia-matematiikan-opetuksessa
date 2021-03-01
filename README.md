@@ -1,2 +1,2 @@
 # Ohjelmointia-matematiikan-opetuksessa
-Ohjelmointia matematiikan opetuksessa -kurssin tehtäviä
+Ohjelmointia matematiikan opetuksessa -kurssin tehtäviä löytyy tiedostoista.
